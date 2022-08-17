@@ -3,10 +3,6 @@ import './App.css';
 import WordCard from './WordCard';
 
 const word = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-const changeword = () => {
-  const word2 = word;
-}
-
 function App() {
   return (
     <div>
